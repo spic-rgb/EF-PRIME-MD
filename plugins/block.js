@@ -1,3 +1,5 @@
+// when stealing remember to credit Frank dev
+
 import config from '../config.cjs';
 
 const block = async (m, gss) => {

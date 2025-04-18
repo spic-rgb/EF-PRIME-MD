@@ -1,4 +1,4 @@
-when stealing remember to credit Frank dev 
+//when stealing remember to credit Frank dev 
 
 import config from '../config.cjs';
 

@@ -93,7 +93,7 @@ const formatQuizResult = (isCorrect, reward, balance, correctAnswer) => {
            `│\n` +
            `╰───────────────────╯`;
   } else {
-    return `╭───「 ❌ INCORRECT! 」───╮\n` +
+    return `╭───「 ❌ INCORRECT! 」─╮\n` +
            `│\n` +
            `│ ✓ Correct answer: ${correctAnswer}\n` +
            `│\n` +

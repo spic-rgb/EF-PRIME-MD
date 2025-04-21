@@ -49,7 +49,7 @@ Initiate the process by creating a personal copy of this repository on your GitH
 ### 2. Get Pairing Code (Session ID)
 
 <p align="left">
-  <a href='https://ef-prime-md.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0000FF?style=for-the-badge&logo=codefactor&logoColor=white'/></a>
+  <a href='https://prime2-0pair.onrender.com' target="_blank"><img alt='Get Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-0000FF?style=for-the-badge&logo=codefactor&logoColor=white'/></a>
 </p>
 
 ### 3. Deploy EF-PRIME-MD BOT

@@ -1,5 +1,5 @@
 {
-  "name": "EF-PRIME WHATSAPP BOG",
+  "name": "EF-PRIME WHATSAPP BOT",
   "version": "10.8.1",
   "description": "EF-PRIME latest multi device whatsapp bot",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "author": "Frank dev",
   "license": "apache2.0",
   "dependencies": {
+"date-fns": "^2.30.0",
     "@whiskeysockets/baileys": "npm:@fizzxydev/baileys-pro@8.5.12",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@google/generative-ai": "^0.9.0",

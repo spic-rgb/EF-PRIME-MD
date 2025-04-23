@@ -1058,7 +1058,7 @@ const economy = async (m, Matrix) => {
       
     case 'help':
       // Economy help command
-      if (args[0]?.toLowerCase() === 'economy' || ['help', 'economy'].includes(cmd)) {
+      if (args[0]?.toLowerCase() === 'economy' || ['bank', 'games'].includes(cmd)) {
         const helpText = `💰 *Economy Commands Help* 💰\n\n` +
           `${prefix}daily - Claim daily reward\n` +
           `${prefix}weekly - Claim weekly reward\n` +
